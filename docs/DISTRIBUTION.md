@@ -6,12 +6,12 @@ Per-channel status for Awesome Enterprise Architect under Release Repo Standard 
 
 | Channel | Artifact | Status | Decision / notes | Date |
 | --- | --- | --- | --- | --- |
-| GitHub repo | jgsystemsconsulting/awesome-enterprise-architect | private Live | Canonical home of the list. Private until public-release Checklist A. | 2026-09-18 |
+| GitHub repo | jgsystemsconsulting/awesome-enterprise-architect | public | Canonical home; public 2026-09-18 after SA audit. | 2026-09-18 |
 | GitHub Releases | v0.1.0 | planned | Tag when public ship runs. | 2026-09-18 |
-| GitHub Pages landing | docs/index.html | built | Served from main /docs when Pages enabled and repo public (or private Pages for org). | 2026-09-18 |
+| GitHub Pages landing | docs/index.html | submitted | Served from main /docs; homepage set. | 2026-09-18 |
 | GitHub About, topics, homepage | repo settings | deferred | Set homepage to Pages URL at public ship. | 2026-09-18 |
 | Org catalogue (labs.jgsystemsconsulting.com) | site entry | deferred | Labs main catalogue excludes curated awesome-* lists (labs-catalog-truth 2026-09-18). Revisit only under optional-resources tier. | 2026-09-18 |
-| sindresorhus/awesome | list PR | deferred | Assessment only until public + prerequisites clear. | 2026-09-18 |
+| sindresorhus/awesome | list PR | deferred | WAIT on SA-AGE (first commit 2026-09-18). Auditor: zero FAIL after fixes. Assessment: docs/superpowers/specs/2026-09-18-awesome-acceptability-assessment.md. No PR until age + manual clear. | 2026-09-18 |
 | In-host agent and IDE marketplaces | n/a | deliberate N/A | Curated list is browsed on GitHub, not installed into an agent host. | 2026-09-18 |
 | MCP directories | n/a | deliberate N/A | List speaks no MCP. | 2026-09-18 |
 | Name reserve | jgsystemsconsulting/awesome-sparx-ea | private | Redirect-only; not a second catalogue. | 2026-09-18 |
