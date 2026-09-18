@@ -1,5 +1,7 @@
 # Awesome Enterprise Architect [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+<p align="center"><img src="media/logo.svg" width="96" height="96" alt="Awesome Enterprise Architect"></p>
+
 > Curated resources for **Sparx Systems Enterprise Architect** (the modeling product):
 > add-ins, MDG, scripting, tutorials, and sample models. Not a general enterprise-architecture
 > (TOGAF/ArchiMate) list; that lives in the awesome-archimate family spoke.
@@ -156,9 +158,8 @@ git clone https://github.com/jgsystemsconsulting/awesome-enterprise-architect.gi
 - Suggest a resource: open a pull request that follows CONTRIBUTING.md, or open an issue
 - Security issues: [private security advisory](https://github.com/jgsystemsconsulting/awesome-enterprise-architect/security/advisories/new)
   (see [SECURITY.md](SECURITY.md))
-- Licence: this list is [CC0 1.0 Universal](LICENSE). Linked resources keep their
-  own licences. Licence enquiries: [labs licensing form](https://labs.jgsystemsconsulting.com/licensing.html).
+- This list is released under [CC0 1.0 Universal](LICENSE). Linked resources keep their own terms.
 
 ## Version
 
-Current release: **0.1.0-private** (2026-09-18). See [CHANGELOG.md](CHANGELOG.md).
+Current release: **0.1.0** (2026-09-18). See [CHANGELOG.md](CHANGELOG.md).
