@@ -1,6 +1,10 @@
 # Awesome Enterprise Architect [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<p align="center"><img src="media/logo.svg" width="96" height="96" alt="Awesome Enterprise Architect"></p>
+<p align="right">
+  <a href="https://jgsystemsconsulting.github.io/awesome-enterprise-architect/">
+    <img src="media/logo.svg" width="256" alt="list mark">
+  </a>
+</p>
 
 > Curated resources for **Sparx Systems Enterprise Architect** (the modeling product):
 > add-ins, MDG, scripting, tutorials, and sample models. Not a general enterprise-architecture
