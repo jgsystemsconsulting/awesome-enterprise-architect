@@ -94,7 +94,7 @@ semantically required. If the canonical forms match, it's a duplicate.
 Also check the public awesome-archimate README when that spoke is reachable: Sparx
 product entries must not appear as full duplicates there and here. Cross-link only.
 
-## 7. Editorial neutrality
+## Editorial neutrality
 
 This list is maintained by JG Systems Consulting Ltd., which sells commercial MBSE
 consulting services. To keep it trustworthy:
