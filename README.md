@@ -28,10 +28,6 @@ sentence text-only.
 - [Sample models](#sample-models)
 - [Community and forums](#community-and-forums)
 - [Related family lists](#related-family-lists)
-- [Install](#install)
-- [Usage](#usage)
-- [Support](#support)
-- [Version](#version)
 
 ## Official product and docs
 
@@ -155,11 +151,12 @@ git clone https://github.com/jgsystemsconsulting/awesome-enterprise-architect.gi
 ## Support
 
 - Bug or dead link: open an issue on this repository
-- Suggest a resource: open a pull request that follows CONTRIBUTING.md, or open an issue
+- Suggest a resource (the list's improvement channel): open a pull request
+  that follows CONTRIBUTING.md, or open an issue
 - Security issues: [private security advisory](https://github.com/jgsystemsconsulting/awesome-enterprise-architect/security/advisories/new)
   (see [SECURITY.md](SECURITY.md))
-- This list is released under [CC0 1.0 Universal](LICENSE). Linked resources keep their own terms.
 
 ## Version
 
-Current release: **0.1.0** (2026-09-18). See [CHANGELOG.md](CHANGELOG.md).
+Current release: **0.1.0** (2026-09-18). See [CHANGELOG.md](CHANGELOG.md) and
+[RELEASE-INFO.txt](RELEASE-INFO.txt).
