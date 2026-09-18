@@ -49,11 +49,11 @@ Path S Pages landing and release gate, matching awesome-archimate. Packages impl
 | name | org-catalogue-entry |
 | size | S |
 | deps | P1 |
-| status | ready |
+| status | deferred |
 
 **Problem.** Labs products.yml entry when policy allows private or public list.
 
-**Status.** ready: DISTRIBUTION planned; implement when website branch cut (may be same session if website clone present).
+**Status.** deferred: Labs catalog policy (2026-09-18 labs-catalog-truth) drops curated awesome-* from main products.yml. DISTRIBUTION notes planned; no products.yml entry this stem.
 
 ## P4: awesome-acceptability-assessment
 
