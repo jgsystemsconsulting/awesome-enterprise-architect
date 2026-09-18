@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this list in your work, please cite it using this metadata."
+title: "Awesome Enterprise Architect"
+version: "0.1.0"
+date-released: "2026-09-18"
+authors:
+  - entity:
+      name: "JG Systems Consulting Ltd"
+license: CC0-1.0
+repository-code: "https://github.com/jgsystemsconsulting/awesome-enterprise-architect"
+url: "https://github.com/jgsystemsconsulting/awesome-enterprise-architect"
+preferred-citation:
+  type: generic
+  title: "Awesome Enterprise Architect"
+  authors:
+    - entity:
+        name: "JG Systems Consulting Ltd"
+  year: 2026
+  version: "0.1.0"
+  repository-code: "https://github.com/jgsystemsconsulting/awesome-enterprise-architect"
