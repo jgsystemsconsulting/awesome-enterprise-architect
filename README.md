@@ -11,6 +11,8 @@
 Part of the awesome-mbse list family (hub: jgsystemsconsulting/awesome-mbse).
 While the hub is private, this line stays text-only (no hub hyperlink).
 
+People and organizations behind these resources: [awesome-mbse-community](https://github.com/jgsystemsconsulting/awesome-mbse-community).
+
 Maintained by [JG Systems Consulting Ltd.](https://github.com/jgsystemsconsulting).
 See [Editorial neutrality](CONTRIBUTING.md#editorial-neutrality).
 
