@@ -8,8 +8,7 @@
 
 ![Last full sweep: 2026-09](https://img.shields.io/badge/last%20full%20sweep-2026--09-brightgreen)
 
-Part of the awesome-mbse list family (hub: jgsystemsconsulting/awesome-mbse).
-While the hub is private, this line stays text-only (no hub hyperlink).
+Part of the [awesome-mbse list family](https://github.com/jgsystemsconsulting/awesome-mbse/blob/main/FAMILY.md).
 
 People and organizations behind these resources: [awesome-mbse-community](https://github.com/jgsystemsconsulting/awesome-mbse-community).
 
@@ -127,9 +126,7 @@ not here. Sparx product tooling, add-ins, MDG, API/scripting, tutorials, and
 Sparx-native sample models belong on this list. Cross-link only; never copy full
 entries between the two.
 
-Sibling MBSE product lists in the same family include awesome-mbse (hub; private,
-text-only mention while private), awesome-capella, awesome-sysml-v2, and
-awesome-stpa. Do not hyperlink private hub or name-reserve repos.
+Sibling MBSE product lists in the same family include [awesome-mbse](https://github.com/jgsystemsconsulting/awesome-mbse) (the hub), [awesome-capella](https://github.com/jgsystemsconsulting/awesome-capella), [awesome-sysml-v2](https://github.com/jgsystemsconsulting/awesome-sysml-v2), and [awesome-stpa](https://github.com/jgsystemsconsulting/awesome-stpa).
 
 ## Contributing
 
@@ -166,3 +163,7 @@ git clone https://github.com/jgsystemsconsulting/awesome-enterprise-architect.gi
 
 Current release: **0.1.0** (2026-09-18). See [CHANGELOG.md](CHANGELOG.md) and
 [RELEASE-INFO.txt](RELEASE-INFO.txt).
+
+## Licence
+
+Copyright (c) 2026 JG Systems Consulting Ltd. See [LICENSE](LICENSE). No purchase or licence key is needed to use this list; for commercial questions, see [labs.jgsystemsconsulting.com/licensing.html](https://labs.jgsystemsconsulting.com/licensing.html).
