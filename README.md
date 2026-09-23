@@ -30,6 +30,10 @@ sentence text-only.
 - [Sample models](#sample-models)
 - [Community and forums](#community-and-forums)
 - [Related family lists](#related-family-lists)
+- [Install](#install)
+- [Usage](#usage)
+- [Support](#support)
+- [Version](#version)
 
 ## Official product and docs
 
