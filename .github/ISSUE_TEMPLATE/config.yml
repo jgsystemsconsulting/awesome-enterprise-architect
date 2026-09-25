@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security advisory
+    url: https://github.com/jgsystemsconsulting/awesome-enterprise-architect/security/advisories/new
+    about: Report a security issue privately
+  - name: awesome-archimate issues
+    url: https://github.com/jgsystemsconsulting/awesome-archimate/issues
+    about: General enterprise-architecture (TOGAF/ArchiMate) resources belong on the sibling list
